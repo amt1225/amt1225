@@ -25,7 +25,7 @@ class ManitejaAkula:
     def __init__(self):
         self.name       = "Maniteja Akula"
         self.username   = "amt1225"
-        self.email      = "amt1225.ds@gmail.com"
+        self.email      = "akulamaniteja1995@gmail.com"
         self.focus      = ["Generative AI", "Machine Learning", "Data Science"]
         self.tools      = ["Python", "LLMs", "RAG Pipelines", "AI Agents"]
         self.passion    = "Building intelligent systems that solve real-world problems"
@@ -42,7 +42,7 @@ me.say_hi()
 - 🌱 Learning advanced **RAG architectures, Vector Databases & AI Agent orchestration**
 - 💡 Passionate about building **end-to-end ML pipelines & AI-powered applications**
 - 🎯 Goal: Bridging the gap between **data, AI, and real-world impact**
-- 📬 Reach me at: **amt1225.ds@gmail.com**
+- 📬 Reach me at: **akulamaniteja1995@gmail.com**
 
 ---
 
