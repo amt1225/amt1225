@@ -1,188 +1,176 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1a1a2e,60:16213e,100:0f3460&height=220&section=header&text=Mani%20Teja%20Akula&fontSize=65&fontColor=00D4FF&fontAlignY=40&desc=Senior%20AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=60&descSize=22&descColor=ffffff&animation=fadeIn" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maniteja%20Akula&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🤖+Building+Generative+AI+Solutions;📊+Data+Science+%26+ML+Engineer;🧠+LLM+Apps+%7C+RAG+%7C+AI+Agents;🚀+Turning+Data+into+Decisions" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FFB3&center=true&vCenter=true&width=800&lines=🧠+8%2B+Years+in+AI+%7C+ML+%7C+Data+Science;🤖+LLMs+%7C+RAG+%7C+Agents+%7C+LangChain+%7C+LangGraph;☁️+AWS+%7C+Azure+%7C+GCP+Cloud+MLOps;🔬+NLP+%7C+Deep+Learning+%7C+Generative+AI;🚀+Building+AI+Systems+That+Actually+Ship" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amt1225&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Experience-8%2B+Years-00D4FF?style=for-the-badge&logo=buffer&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Open+to+Work-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-United+States-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=amt1225&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/amt1225?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-## 🧬 Who Am I?
+## 👨‍💻 About Me
 
 ```python
 class ManitejaAkula:
-    name        = "Mani Teja Akula"
-    title       = "Senior AI/ML Engineer"
-    experience  = "8+ years"
-    location    = "United States 🇺🇸"
-    education   = "M.S. Data Science — Wichita State University"
-    email       = "akulamaniteja1995@gmail.com"
-    phone       = "316-771-0720"
+    def __init__(self):
+        self.name       = "Maniteja Akula"
+        self.username   = "amt1225"
+        self.email      = "amt1225.ds@gmail.com"
+        self.focus      = ["Generative AI", "Machine Learning", "Data Science"]
+        self.tools      = ["Python", "LLMs", "RAG Pipelines", "AI Agents"]
+        self.passion    = "Building intelligent systems that solve real-world problems"
+        self.status     = "Open to opportunities 🚀"
 
-    currently_building = [
-        "LLM-powered clinical AI @ Spring Health",
-        "RAG pipelines with LangChain + LangGraph",
-        "Agentic AI workflows w/ Google Vertex AI",
-    ]
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
 
-    superpowers = [
-        "Generative AI & LLM Engineering",
-        "End-to-End MLOps (AWS + Azure)",
-        "NLP, Deep Learning, Predictive Modeling",
-        "Turning messy data → production AI",
-    ]
-
-    fun_fact = "I've shipped ML models with 90%+ accuracy 🎯"
+me = ManitejaAkula()
+me.say_hi()
 ```
 
----
-
-## 💼 Professional Journey
-
-<div align="center">
-
-```
-🏢 Spring Health, NY          Jan 2025 – Present     🔵 Senior AI/ML Engineer
-🏦 Fifth Third Bank, OH       Sep 2023 – Dec 2024    🟣 Data Scientist / ML Engineer
-🌐 Maximus IT Solutions, IN   Jul 2020 – Jul 2022    🟠 Data Scientist
-⚡ Synergy Technologies, IN   May 2016 – Jun 2020    🟢 Data Scientist (Compliance & Real-Time)
-```
-
-</div>
-
-### 🔵 Spring Health, New York — *Senior AI/ML Engineer* `Jan 2025 – Present`
-
-> *Building cutting-edge GenAI solutions for mental healthcare*
-
-- 🤖 Engineered & fine-tuned **GPT-4, BERT, T5** for complex NLP tasks with measurable improvements in accuracy and contextual understanding
-- 🔗 Built **LangChain + LlamaIndex** conversational AI pipelines for dynamic language model integration
-- 🧠 Developed & deployed **Google Vertex AI Agent Builder** chatbots with advanced prompt engineering
-- 🐳 Containerized AI services using **Docker** with **CI/CD pipelines** for seamless deployment
-- 📊 Delivered **Tableau** data visualizations to communicate insights to stakeholders
+- 🔭 Currently exploring **Generative AI, LLM Apps & Agentic Systems**
+- 🌱 Learning advanced **RAG architectures, Vector Databases & AI Agent orchestration**
+- 💡 Passionate about building **end-to-end ML pipelines & AI-powered applications**
+- 🎯 Goal: Bridging the gap between **data, AI, and real-world impact**
+- 📬 Reach me at: **amt1225.ds@gmail.com**
 
 ---
 
-### 🏦 Fifth Third Bank, Ohio — *Data Scientist / ML Engineer* `Sep 2023 – Dec 2024`
+## 🛠️ Tech Stack & Skills
 
-> *AI-powered solutions for one of America's largest financial institutions*
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
-- ☁️ Built end-to-end **Azure ML pipelines** — training, evaluation, and deployment with AutoML & model registries
-- 🔍 Implemented **Azure AI Search** enterprise solutions improving data accessibility and user experience
-- 📈 Deployed **time series forecasting** (ARIMA, seasonality decomposition) to inform business decisions
-- 🛡️ Evaluated **LLMs** for complex language tasks, identifying improvement areas and ensuring high-quality outputs
-- 🤝 Integrated **Azure OpenAI** to drive innovation and automation across financial workflows
+### 🧠 Generative AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge"/>
+</p>
+
+### 📊 Data & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🛢️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
-### 🌐 Maximus IT Solutions, India — *Data Scientist* `Jul 2020 – Jul 2022`
+## 🚀 Featured Projects
 
-> *Cloud-native ML at scale on AWS*
-
-- ☁️ Built, trained & deployed ML models on **AWS SageMaker** with production-grade reliability
-- 🏗️ Architected ETL pipelines using **AWS Glue, S3, Lambda, CodePipeline**
-- 🤖 Implemented **LSTM-based chatbot** using TensorFlow achieving high response accuracy
-- 📦 Leveraged **Amazon Bedrock** for scalable foundation model deployment
-- 🎯 Achieved **min 90% accuracy** in sales forecasting using predictive analytics
-
----
-
-### ⚡ Synergy Technologies, India — *Data Scientist (Compliance & Real-Time)* `May 2016 – Jun 2020`
-
-> *Real-time fraud detection & compliance systems at enterprise scale*
-
-- ⚡ Built **near real-time fraud detection** pipelines using **PySpark + Kafka + JMS**
-- 🔒 Engineered leakage-free feature pipelines with **CCPA** compliance using AWS Glue, EMR & Airflow
-- 🗄️ Developed scalable **ETL pipelines** from Oracle/internal systems → Redshift & S3
-- 📡 Implemented **CloudWatch observability** with alerting for pipeline health monitoring
-- 🔄 Automated CI/CD workflows using **GitHub + Jenkins** for continuous feature delivery
-
----
-
-## 🛠️ Full Tech Arsenal
-
-### 🤖 Generative AI & LLMs
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fine--Tuning-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-00FFB3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-FF9F43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-### 🗄️ Vector Databases & Search
-<p>
-<img src="https://img.shields.io/badge/FAISS-003366?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hybrid_Search-8B5CF6?style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud & MLOps
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-</p>
-
-### 🧠 ML & Deep Learning
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN%2FRNN%2FLSTM-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-00D4FF?style=for-the-badge"/>
-</p>
-
-### 💾 Data & Databases
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
-</p>
-
-### 📊 Visualization & APIs
-<p>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-00A896?style=for-the-badge"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Generative AI for Beginners</h3>
+      <p align="center">
+        <a href="https://github.com/amt1225/Generative-AI-for-beginners">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>21-lesson comprehensive curriculum to get started building with <strong>Generative AI</strong>. Covers LLMs, prompt engineering, RAG, AI agents and more. Forked from Microsoft's official course.</p>
+      <p><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Cracking the Data Science Interview</h3>
+      <p align="center">
+        <a href="https://github.com/amt1225/cracking-the-data-science-interview">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>A comprehensive collection of <strong>cheatsheets, books, questions and portfolio resources</strong> for DS/ML interview preparation covering statistics, ML algorithms, SQL, and system design.</p>
+      <p><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Interview_Prep-0e75b6?style=flat-square"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ ML From Scratch</h3>
+      <p align="center">
+        <a href="https://github.com/amt1225/ML-From-Scratch">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Implementing <strong>machine learning algorithms from scratch</strong> using Python and NumPy — without using high-level ML libraries. Deep understanding of core ML mathematics and implementations.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Awesome LLM Apps</h3>
+      <p align="center">
+        <a href="https://github.com/amt1225/awesome-llm-apps">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Curated collection of <strong>awesome LLM applications</strong> with AI Agents and RAG pipelines using OpenAI, Anthropic, Gemini, and open-source models. A go-to reference for production AI apps.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat-square"/> <img src="https://img.shields.io/badge/Agents-FF6B6B?style=flat-square"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 The Grand Data Science Materials</h3>
+      <p align="center">
+        <a href="https://github.com/amt1225/The-Grand-Complete-Data-Science-Materials">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>A grand, complete collection of <strong>Data Science materials</strong> — covering Python, statistics, ML, deep learning, SQL, visualization tools and more. Perfect for end-to-end learning.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Science-F7931E?style=flat-square"/></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔨 Project Based Learning</h3>
+      <p align="center">
+        <a href="https://github.com/amt1225/project-based-learning">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>A curated list of <strong>project-based tutorials</strong> for hands-on learning across multiple domains including AI/ML, web development, systems programming, and more.</p>
+      <p><img src="https://img.shields.io/badge/Multi--Language-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/Tutorials-47A248?style=flat-square"/></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -190,98 +178,78 @@ class ManitejaAkula:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amt1225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FFB3&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amt1225&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00FFB3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amt1225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amt1225&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt1225&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amt1225&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00FFB3&point=FF6B6B" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt1225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=amt1225&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🏆 Trophies & Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amt1225&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amt1225&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-## 🎓 Education
+## 🧩 What I'm Working On
 
-<table align="center" width="80%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/M.S._Data_Science-Wichita_State_University-00D4FF?style=for-the-badge"/>
-      <br/><br/><strong>Wichita State University, Kansas, USA</strong>
-      <br/>🗓️ Graduated 2024
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/B.Tech_Electrical_Engineering-JNTU_Kakinada-FF6B6B?style=for-the-badge"/>
-      <br/><br/><strong>JNTU-Kakinada, India</strong>
-      <br/>🗓️ Graduated 2016
-    </td>
-  </tr>
-</table>
+```
+🔥 Current Focus:
+├── 🤖 Building production-ready RAG pipelines with LangChain & LlamaIndex
+├── 🧠 Exploring multi-agent AI systems and orchestration frameworks
+├── 📊 Advanced ML model development and deployment pipelines
+├── 🛠️  Contributing to open-source AI/ML projects
+└── 📚 Deepening knowledge in Vector Databases (Pinecone, ChromaDB, Weaviate)
+```
 
 ---
 
-## 🔢 By The Numbers
+## 🌐 Connect With Me
 
 <div align="center">
 
-| 🏆 Metric | 📊 Value |
-|:---|:---|
-| 💼 Years of Experience | **8+ Years** |
-| 🤖 ML Models Deployed | **Production-Grade @ Scale** |
-| 🎯 Max Forecast Accuracy | **90%+** |
-| 📈 GenAI Performance Gain | **20% boost via data augmentation** |
-| ☁️ Cloud Platforms | **AWS · Azure · GCP** |
-| 🗄️ Vector DBs Mastered | **FAISS · Pinecone · Weaviate · Chroma · OpenSearch** |
-| 🔗 LLM Frameworks | **LangChain · LangGraph · LlamaIndex · HuggingFace** |
-| 📋 Compliance Standards | **HIPAA · GDPR · CCPA** |
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="mailto:akulamaniteja1995@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:amt1225.ds@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://linkedin.com/in/amt1225">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://github.com/amt1225">
-  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="tel:3167710720">
-  <img src="https://img.shields.io/badge/📞_316--771--0720-00D4FF?style=for-the-badge"/>
+<a href="https://linkedin.com/in/amt1225">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/amt1225">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://kaggle.com/amt1225">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+---
 
+## 💡 A Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Open to Senior AI/ML Engineering roles | Generative AI | LLM Applications | MLOps
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
-<sub>⚡ <i>If you're building the next wave of AI products — let's talk.</i></sub>
+**⭐ If you find my work useful, consider giving a star to the repos!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0D0D0D&height=130&section=footer"/>
+*"The best way to predict the future is to create it." — Alan Kay*
 
 </div>
