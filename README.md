@@ -24,8 +24,6 @@
 class ManitejaAkula:
     def __init__(self):
         self.name       = "Maniteja Akula"
-        self.username   = "amt1225"
-        self.email      = "amt1225.ds@gmail.com"
         self.focus      = ["Generative AI", "Machine Learning", "Data Science"]
         self.tools      = ["Python", "LLMs", "RAG Pipelines", "AI Agents"]
         self.passion    = "Building intelligent systems that solve real-world problems"
