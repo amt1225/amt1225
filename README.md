@@ -40,7 +40,6 @@ me.say_hi()
 - 🌱 Learning advanced **RAG architectures, Vector Databases & AI Agent orchestration**
 - 💡 Passionate about building **end-to-end ML pipelines & AI-powered applications**
 - 🎯 Goal: Bridging the gap between **data, AI, and real-world impact**
-- 📬 Reach me at: **amt1225.ds@gmail.com**
 
 ---
 
